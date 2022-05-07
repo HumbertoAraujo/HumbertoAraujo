@@ -51,6 +51,9 @@ object **HUMBERTO** {
  
   </p>
   
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoAraujo)](https://github.com/HumbertoAraujo/github-readme-stats)
+  
+  
 #### Professional Contacts
 
 <p align="left">
