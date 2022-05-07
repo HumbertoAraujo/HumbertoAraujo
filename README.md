@@ -25,7 +25,7 @@ object **HUMBERTO** {
 
 ## **GitHub Statistics**
 
-![Humberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Humberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=HumbertoAraujo&show_icons=true&theme=radical)
 
 
 #### Social Media
