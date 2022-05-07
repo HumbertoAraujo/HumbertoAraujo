@@ -27,6 +27,10 @@ object **HUMBERTO** {
 
 ![Humberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=HumbertoAraujo&show_icons=true&theme=radical)
 
+## **Languages Statistics**
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoAraujo)](https://github.com/HumbertoAraujo/github-readme-stats)
+
 
 #### Social Media
 
@@ -50,9 +54,8 @@ object **HUMBERTO** {
    
  
   </p>
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoAraujo)](https://github.com/HumbertoAraujo/github-readme-stats)
-  
+
+
   
 #### Professional Contacts
 
