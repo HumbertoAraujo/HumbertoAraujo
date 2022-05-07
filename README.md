@@ -1,4 +1,4 @@
- Sou o <strong> Humberto </strong>, natural de São Leopoldo(RS), atualmente morando em Garopaba(SC), sou um apaixonado por tecnologia e desafios, possuo 15 anos de experiência em telecomunicações, tendo participado como líder e liderado em equipes de alto desempenho em projetos de implantação e otimização de sistemas celular.
+   Sou o <strong> Humberto </strong>, natural de São Leopoldo(RS), atualmente morando em Garopaba(SC), sou um apaixonado por tecnologia e desafios, possuo 15 anos de experiência em telecomunicações, tendo participado como líder e liderado em equipes de alto desempenho em projetos de implantação e otimização de sistemas celular.
  Participei ativamente da implantação dos sistema 2G/3G/4G nos 2 maiores fornecedores do mundo que atuam no Brasil, e dentro das principais operadoras do país como Consultor Especialista Técnico, e em Gestão de Projetos.
  Minha trajetória passou pela time técnico de campo, supervisão de projetos, coordenação de projetos, consultor como especialista em redes, transmissão, e consultor em gestão de projetos.
  Em 2017 em busca de uma qualidade de vida, mudei com a família para esta bela cidade do interior de Santa Catarina, porém na pandemia me despertou fortemente a necessidade por conhecimento, e novos desafios, e atualmente estou em formação acadêmica, e formação técnica no ramo de Desenvolvimento de Software, <strong> estou em momento de transição de carreira, e apaixonado por esta nova área, adorando este recomeço.</strong>
@@ -25,14 +25,7 @@ object **HUMBERTO** {
 
 ## **GitHub Statistics**
 
-<a href="https://github.com/HumbertoAraujo ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoAraujo &langs_count=7&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/HumbertoAraujo ">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=HumbertoAraujo &show_icons=true&theme=dracula&line_height=33" alt="**RAFAEL FRANÇA* github stats"/>
-</a>
-
+![Humberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 #### Social Media
