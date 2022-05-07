@@ -16,10 +16,12 @@
 ```kotlin
 object **HUMBERTO** {
  val name = "HUMBERTO DE OLIVEIRA ARAÚJO"
- val acknowledgements = "DEV FULL STACK WEB STUDENT AND SYSTEM ANALYSIS AND DEVELOPMENT STUDENT"
+ val acknowledgements = "DEV FULL STACK WEB STUDENT 
+ AND SYSTEM ANALYSIS AND DEVELOPMENT STUDENT"
  
  val primarySkillset = "HTML, CSS, JavaScript"
- val languages = listOf("HTML", "CSS", "JavaScript", "Git", "React", "C", "C++", "Node", "Docker", "Typescript", "MongoDB", "Java") 
+ val languages = listOf("HTML", "CSS", "JavaScript", "Git", 
+ "React", "C", "C++", "Node", "Docker", "Typescript", "MongoDB", "Java") 
 }
 ```
 
