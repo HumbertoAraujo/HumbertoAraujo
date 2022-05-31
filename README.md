@@ -2,7 +2,7 @@
  Participei ativamente da implantação dos sistema 2G/3G/4G nos 2 maiores fornecedores do mundo que atuam no Brasil,  e dentro das principais operadoras do país como Consultor Especialista Técnico, e em Gestão de Projetos.
  Minha trajetória passou pelo time técnico de campo, supervisão de projetos, coordenação de projetos, consultor como especialista em redes, transmissão, e consultor em gestão de projetos.
  Em 2017 em busca de uma qualidade de vida, mudei com a família para esta bela cidade litorânea do interior de Santa Catarina, porém na pandemia me despertou fortemente a necessidade por conhecimento e novos desafios. Atualmente estou em formação acadêmica e formação técnica no ramo de Desenvolvimento de Software. <strong>Estou em momento de transição de carreira</strong>, apaixonado por esta nova área, e adorando este <strong>recomeço</strong>.
- Tenho estudado bastante Javascript, React, Node, MySql, CSS, HTML, Docker, Typescript, MongoDB, Python, Java, C, C++, e Cloud AWS (sou um entusiasta em projetos Iot - Arduíno,e na cultura DevOps).
+ Tenho estudado bastante Javascript, React, Node, MySql, CSS, HTML, Docker, Typescript, MongoDB, Python, Java, C, C++, e Cloud AWS (sou um entusiasta em projetos Iot - Arduíno, e na cultura DevOps).
  
 <div align="center">
  
