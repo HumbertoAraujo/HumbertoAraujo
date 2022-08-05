@@ -3,6 +3,7 @@
  Minha trajetória passou pelo time técnico de campo, supervisão de projetos, coordenação de projetos, consultor como especialista em redes, transmissão, e consultor em gestão de projetos.
  Em 2017 em busca de uma qualidade de vida, mudei com a família para esta bela cidade litorânea do interior de Santa Catarina, porém na pandemia me despertou fortemente a necessidade por conhecimento e novos desafios. Atualmente estou em formação acadêmica e formação técnica no ramo de Desenvolvimento de Software. <strong>Estou em momento de transição de carreira</strong>, apaixonado por esta nova área, e adorando este <strong>recomeço</strong>.
  Tenho estudado bastante Javascript, React, Node, MySql, CSS, HTML, Docker, Typescript, MongoDB, Python, Java, C, C++, e Cloud AWS (sou um entusiasta em projetos Iot - Arduíno, e na cultura DevOps).
+ Começo 16/08/2022 novo desafio profissional na Capgemini após passar pelo programa Start, onde atuarei em projetos e soluções Cloud no cargo de Cloud Solutions Analyst l.
  
 <div align="center">
  
@@ -16,12 +17,12 @@
 ```kotlin
 object **HUMBERTO** {
  val name = "HUMBERTO DE OLIVEIRA ARAÚJO"
- val acknowledgements = "DEV FULL STACK WEB STUDENT 
+ val acknowledgements = "Cloud Solutions Analyst|DEV FULL STACK WEB STUDENT 
  AND SYSTEM ANALYSIS AND DEVELOPMENT STUDENT"
  
- val primarySkillset = "HTML, CSS, JavaScript"
+ val primarySkillset = "Cloud, HTML, CSS, JavaScript"
  val languages = listOf("HTML", "CSS", "JavaScript", "Git", 
- "React", "C", "C++", "Node", "Docker", "Typescript", "MongoDB", "Java") 
+ "React", "C", "C++", "Node", "Docker", "Typescript", "MongoDB", "Java", "AWS") 
 }
 ```
 
