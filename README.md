@@ -3,7 +3,9 @@
  Minha trajetória passou pelo time técnico de campo, supervisão de projetos, coordenação de projetos, consultor como especialista em redes, transmissão, e consultor em gestão de projetos.
  Em 2017 em busca de uma qualidade de vida, mudei com a família para esta bela cidade litorânea do interior de Santa Catarina, porém na pandemia me despertou fortemente a necessidade por conhecimento e novos desafios.Me formei recentemente em Análise e Desenvolvimento de Sistemas, e estou em formação técnica no ramo de Desenvolvimento de Software, Infra ambientes Windows Server, e Cloud. <strong>Estou em momento de transição de carreira</strong>, entusiasmado nesta nova área, e adorando este <strong>recomeço</strong>.
  Tenho estudado bastante Javascript, React, Node, MySql, CSS, HTML, Docker, Typescript, MongoDB, Python, Java, C, C++, e Cloud AWS (sou um entusiasta em projetos Iot - Arduíno, Cloud, Virtualização, e na cultura DevOps).
- Comecei em 16/08/2022 novo desafio profissional na Capgemini após passar pelo programa Start, onde atuo no suporte N3 de ambientes Windows Server, e projetos com soluções Cloud no cargo de Cloud Solutions Analyst, seguindo as melhores práticas ITIL-4, Six-Sigma, e metodologias ágeis.
+ Atuei de 16/08/2022 até 08/09/2023 em novo desafio profissional na Capgemini após passar pelo programa Start, onde atuo no suporte N2/N3 de ambientes Windows Server, e projetos com soluções Cloud no cargo de Cloud Solutions Analyst, seguindo as melhores práticas ITIL-4, Six-Sigma, e metodologias ágeis.
+ Atuando atualmente na Jobway como Consultor de vendas, implantação, sustentação de equipamentos e serviços de infraestrutura e sistemas de TI e Automação Residencial/Comercial para os clientes da região.
+Apoio aos times dos laboratórios de manutenção/reparo dos equipamentos de TI e telefonia celular.
  
 <div align="center">
  
